@@ -36,7 +36,7 @@ Before starting the analysis, it’s important to understand the structure of th
 -  Designed to make analysis fast and simple
 
    In this project, we used a Star  schema for data modeling, which keeps the data organized, easy to manage, and ready for creating clear and useful reports.
-   ![Datamodeling](https://github.com/Shahna-k25/AtliQ-Mart-Supplychain-Analysis/commit/edddee3ea9e3fa216c02c1bd11bba986f02)
+   ![Datamodeling](https://github.com/Shahna-k25/AtliQ-Mart-Supplychain-Analysis/blob/main/Supply%20datamodeling.png)
 
 
 
