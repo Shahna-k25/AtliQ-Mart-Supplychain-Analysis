@@ -13,7 +13,7 @@ The Supply Chain team decided to use a standard approach to measure the service 
 -  In-Full Delivery (IF) %: Measures the percentage of customer orders delivered in full.
 -  On-Time In Full (OTIF) %: Measures the percentage of customer orders that are both on-time and in-full.
 ## 🖥️Live Dashboard
-Link for the AtliQ mart Supplychain Dashboard - 
+Link for the AtliQ mart Supplychain Dashboard -  [Live Dashboard]( https://app.powerbi.com/view?r=eyJrIjoiZjNkOWY3NjItZGNkYi00OThmLTgyOTYtNGZkODM2YjU5ZWUzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 ## 🗂️Datasets
 Before starting the analysis, it’s important to understand the structure of the data. The project uses two main types of tables:
 
